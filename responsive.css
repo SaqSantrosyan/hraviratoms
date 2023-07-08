@@ -1,0 +1,336 @@
+@media screen and (max-width: 1500px) {
+  .square > img {
+    width: 12%;
+  }
+  .nameHusbands {
+    font-size: 60px;
+  }
+  .numbers {
+    font-size: 55px;
+  }
+  .headerP {
+    font-size: 25px;
+  }
+  .mainH2 {
+    font-size: 2.3rem;
+  }
+  .blockOne > img {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .blockOne > h2 {
+    font-size: 15px;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 15px;
+  }
+  .blockOne > p {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .headerH2One {
+    font-size: 17px;
+  }
+  .headerP {
+    font-size: 24px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .nameHusbands {
+    font-size: 50px;
+  }
+  .numbers {
+    font-size: 45px;
+  }
+  .headerP {
+    font-size: 19px;
+  }
+  .mainH2 {
+    font-size: 1.9rem;
+  }
+  .blockOne > h2 {
+    font-size: 13px;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 13px;
+  }
+  .blockOne > h3 {
+    font-size: 14px;
+  }
+  .blockOne > p {
+    font-size: 12px;
+  }
+  .blockOne > p > a {
+    font-weight: 549;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .nameHusbands {
+    font-size: 40px;
+  }
+  .numbers {
+    font-size: 35px;
+  }
+  .headerP {
+    font-size: 16px;
+  }
+  .mainH2 {
+    font-size: 1.7rem;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 11px;
+  }
+  .blockOne > h2 {
+    font-size: 11px;
+  }
+  .blockOne > p {
+    font-size: 10px;
+  }
+  .fORKrest {
+    width: 27vh;
+    height: 27vh;
+  }
+  aside > h2 {
+    font-size: 17px;
+  }
+  .footerImage {
+    width: 27vh;
+    height: 27vh;
+  }
+  .cont > h2 {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .headerH2One {
+    font-size: 15px;
+  }
+  .headerP {
+    font-size: 14px;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 10px;
+  }
+  .blockOne > h2 {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .nameHusbands {
+    font-size: 25px;
+  }
+  .numbers {
+    font-size: 25px;
+  }
+  .headerP {
+    font-size: 12px;
+  }
+  .husbandsPicture {
+    width: 40vh;
+    height: 60vh;
+  }
+  .mainH2 {
+    font-size: 1.3rem;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 9px;
+  }
+  .blockOne > h2 {
+    font-size: 9px;
+  }
+  .blockOne > h3 {
+    font-size: 10px;
+  }
+  .blockOne > p {
+    font-size: 8px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .container {
+    height: 440vh;
+  }
+  .headerH2One {
+    font-size: 11px;
+  }
+  .headerP {
+    font-size: 10px;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 8px;
+  }
+  .blockOne > h2 {
+    font-size: 8px;
+  }
+  .blockOne > p {
+    font-size: 7px;
+  }
+  section,
+  aside,
+  footer {
+    height: 80vh;
+  }
+  .forest {
+    width: 30%;
+    height: 30%;
+  }
+  .fORKrest {
+    width: 22vh;
+    height: 22vh;
+  }
+  .fORKrest {
+    width: 22vh;
+    height: 22vh;
+  }
+  .footerImage {
+    width: 22vh;
+    height: 22vh;
+  }
+  .cont > h2 {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .nameHusbands {
+    font-size: 20px;
+  }
+  .headerP {
+    font-size: 15px;
+  }
+  main {
+    gap: 5rem;
+  }
+  .blockOne > h2 {
+    font-size: 13px;
+  }
+  .blockOne > p {
+    font-size: 10px;
+  }
+  .blockOne {
+    width: 42%;
+  }
+  .blockOne:nth-of-type(2) > h2 {
+    font-size: 11px;
+  }
+  section,
+  aside,
+  footer {
+    height: 135vh;
+  }
+  .container {
+    height: 600vh;
+  }
+  .sectionMini {
+    width: 70%;
+    height: 70%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -15%;
+    align-content: stretch;
+    justify-items: center;
+  }
+  .fORKrest {
+    width: 25vh;
+    height: 25vh;
+  }
+  .footerImage {
+    width: 25vh;
+    height: 25vh;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .nameHusbands {
+    font-size: 13px;
+  }
+  .numbers {
+    font-size: 13px;
+  }
+  .headerP {
+    font-size: 12px;
+  }
+  .headerCenter {
+    width: 75%;
+  }
+  .headerRight {
+    width: 25%;
+    height: 150%;
+    background-size: 135% 110% !important;
+    background-position: 7% 167% !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .square {
+    top: 2%;
+  }
+  .headerCenter {
+    width: 61%;
+    padding-top: 7%;
+  }
+  .headerRight {
+    width: 20%;
+    height: 111%;
+    background-size: 200% 105% !important;
+    background-position: 18% 31% !important;
+  }
+  .numbers {
+    font-size: 16px;
+  }
+  .headerLeft {
+    width: 37%;
+    height: 117%;
+    background-size: 124% 106%;
+    background-position: 153% 166%;
+  }
+  .mainH2 {
+    font-size: 0.9rem;
+  }
+
+  .sectionMini {
+    width: 110%;
+    gap: 1rem;
+    top: -6%;
+}
+  .fixedFone {
+    height: 110vh;
+  }
+  .cont > img {
+    width: 15%;
+  }
+
+  section,
+  aside,
+  footer {
+    height: 200vh;
+  }
+
+  header {
+    width: 106%;
+  }
+  .headerCenter {
+    width: 70%;
+  }
+  .nameHusbands {
+    font-size: 15px;
+  }
+  .blockOne {
+    width: 50%;
+  }
+  .headerP {
+    font-size: 14px;
+  }
+  .container {
+    height: 770vh;
+  }
+  .forest {
+    width: 44%;
+    height: 40%;
+  }
+}
+
